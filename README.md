@@ -11,6 +11,7 @@
 <a href="https://twitter.com/Shravaaaniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShravaniTwitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shravani-kadam-194793213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShravaniTwitter" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shravaanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush-t02" height="30" width="40" /></a>
+ <a href="https://discord.gg/#0968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0968" height="30" width="40" /></a>
 </p> <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-t02&show_icons=true&&theme=gotham" alt="ayush-t02" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shravani10-tech&show_icons=true&&theme=gotham" alt="ayush-t02" /></p>
